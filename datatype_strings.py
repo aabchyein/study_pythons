@@ -31,7 +31,7 @@ age = 36
 txt = "My name is John, I am " + str(age)
 print(txt)
 pass
-#format 기술
+#format 기술 : format 메소드를 사용하여 문자와 숫자를 함게 출력할 수 있다
 #<debug console>
 txt_second = "My name is John, I am {}."
 txt_second
