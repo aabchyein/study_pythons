@@ -1,6 +1,7 @@
 # 퀘스트 
 # fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 # user input을 받아 그 값만큼 fruits list의 값을 출력
+# 출력은 index, fruit name
 # Q 입력하면 while문 종료
 # <예시>
 # Loops count : 2
