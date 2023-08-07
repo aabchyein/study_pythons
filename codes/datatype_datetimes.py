@@ -27,7 +27,7 @@ someday - today
 pass
 
 
-# 퀘스트 (23년 5월 8일부터 23.8.7 현재가지 흐른 날짜 계산)
+# 퀘스트 (23년 5월 8일부터 23.8.7 현재까지 흐른 날짜 계산)
 today = datetime.datetime(2023, 8, 7)
 someday = datetime.datetime(2023, 5, 8)
 somedelta = today - someday
